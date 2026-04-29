@@ -1,0 +1,7 @@
+﻿#,Section,What's Covered
+1,Basics,"date, time, datetime objects — creation, attributes, today(), now()"
+2,Formatting,"strftime codes with a full reference table; ISO, US, European, and log-style formats"
+3,Parsing,strptime with multiple formats; error handling; parse-then-reformat patterns
+4,Timezones,pytz.localize() vs .replace() pitfalls; .astimezone() conversions; DST awareness; zoneinfo bonus
+5,Timedeltas,"Arithmetic, countdowns, date series generation, business-day logic"
+6,Real-World Scenarios,"Log parser, cross-timezone meeting scheduler, event countdown dashboard, date range generator"
